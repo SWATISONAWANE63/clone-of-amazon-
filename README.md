@@ -14,3 +14,5 @@ A clean and responsive Amazon homepage clone built using HTML and CSS. This proj
 - Multiple product category boxes
 - Footer with multi-column links
 - Built using only HTML & CSS (no frameworks)
+
+https://github.com/SWATISONAWANE63/clone-of-amazon-/blob/main/Screenshot%202025-04-13%20155251.png?raw=true
